@@ -1,0 +1,32 @@
+{
+  "name": "cloudinary-upload",
+  "version": "1.0.0",
+  "description": "Node JS Upload File W/ CLOUDINARY",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mahendra0859/cloudinary-upload.git"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "Cloudinary"
+  ],
+  "author": "Mahendra AR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahendra0859/cloudinary-upload/issues"
+  },
+  "homepage": "https://github.com/mahendra0859/cloudinary-upload#readme",
+  "dependencies": {
+    "cloudinary": "^1.23.0",
+    "dotenv": "^8.2.0",
+    "formidable": "^1.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
